@@ -10,11 +10,8 @@
 
 This is a production-ready microservice that takes a YouTube URL and a tone (professional, casual, funny) and generates platform-optimized posts for:
 
-- **LinkedIn** – thought leadership posts
-- **Twitter / X** – short, punchy threads
-- **Blog** – full-length articles
-- **Instagram Caption** – engaging hooks with emojis
-- **Newsletter** – subscriber-friendly summaries
+- **LinkedIn** – [thought leadership posts](https://www.linkedin.com/in/muhammad-seeban/)
+
 
 It uses **Hugging Face Inference API** (free tier) with the **Mistral-7B-Instruct** model to generate human-like, engaging content. The entire app runs on **Railway** free tier with zero cold-start delays — always responsive.
 
