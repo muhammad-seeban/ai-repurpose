@@ -2,9 +2,6 @@
 
 **Turn 1 YouTube video into 5+ high-quality social posts in under 30 seconds.**
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Railway-0B0D0E?style=for-the-badge&logo=railway)](https://your-app.up.railway.app)
-[![Built with Flask](https://img.shields.io/badge/Built_with-Flask-000000?style=for-the-badge&logo=flask)](https://flask.palletsprojects.com)
-[![AI Powered](https://img.shields.io/badge/AI-HuggingFace-FFD21E?style=for-the-badge&logo=huggingface)](https://huggingface.co)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
 ---
