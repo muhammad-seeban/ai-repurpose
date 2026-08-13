@@ -54,3 +54,16 @@ Content creators, agencies, and brands spend **hours** repurposing one video int
 ```bash
 git clone https://github.com/yourusername/ai-repurpose.git
 cd ai-repurpose
+
+### 2. Install dependencies
+bash
+pip install -r requirements.txt
+### 3. Set environment variables
+Create a .env file:
+
+text
+HF_TOKEN=your_huggingface_token_here
+### 4. Run locally
+bash
+python app.py
+Visit http://localhost:8080 in your browser.
