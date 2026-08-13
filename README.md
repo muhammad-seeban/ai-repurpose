@@ -1,1 +1,37 @@
-# ai-repurpose
+# 🎬 AI Content Repurposing Engine
+
+**Turn 1 YouTube video into 5+ high-quality social posts in under 30 seconds.**
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Railway-0B0D0E?style=for-the-badge&logo=railway)](https://your-app.up.railway.app)
+[![Built with Flask](https://img.shields.io/badge/Built_with-Flask-000000?style=for-the-badge&logo=flask)](https://flask.palletsprojects.com)
+[![AI Powered](https://img.shields.io/badge/AI-HuggingFace-FFD21E?style=for-the-badge&logo=huggingface)](https://huggingface.co)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](https://opensource.org/licenses/MIT)
+
+---
+
+## 📌 Overview
+
+This is a production-ready microservice that takes a YouTube URL and a tone (professional, casual, funny) and generates platform-optimized posts for:
+
+- **LinkedIn** – thought leadership posts
+- **Twitter / X** – short, punchy threads
+- **Blog** – full-length articles
+- **Instagram Caption** – engaging hooks with emojis
+- **Newsletter** – subscriber-friendly summaries
+
+It uses **Hugging Face Inference API** (free tier) with the **Mistral-7B-Instruct** model to generate human-like, engaging content. The entire app runs on **Railway** free tier with zero cold-start delays — always responsive.
+
+---
+
+## 🚀 Why This Exists
+
+Content creators, agencies, and brands spend **hours** repurposing one video into multiple posts. This engine does it in **seconds**. It's built for:
+
+- ✅ YouTubers who want to grow on other platforms
+- ✅ Marketing agencies handling multiple clients
+- ✅ Solopreneurs who want to scale content without hiring writers
+- ✅ Brands that need consistent multi-channel presence
+
+---
+
+## 🧠 How It Works
