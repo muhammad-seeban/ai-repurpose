@@ -32,3 +32,25 @@ Content creators, agencies, and brands spend **hours** repurposing one video int
 ---
 
 ## 🧠 How It Works
+
+
+---
+
+## 🛠 Tech Stack
+
+| Layer | Technology |
+|-------|------------|
+| Backend | Python 3.10 + Flask |
+| AI API | Hugging Face Inference (Mistral-7B-Instruct) |
+| Deployment | Railway (free tier, always-on) |
+| Auth (future) | JWT + Stripe |
+| Version Control | Git + GitHub |
+
+---
+
+## 📦 Quick Start
+
+### 1. Clone the repo
+```bash
+git clone https://github.com/yourusername/ai-repurpose.git
+cd ai-repurpose
