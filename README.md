@@ -48,12 +48,12 @@ Content creators, agencies, and brands spend **hours** repurposing one video int
 ## 📦 Quick Start
 
 ### 1. Clone the repo
-```bash
+bash
 git clone https://github.com/yourusername/ai-repurpose.git
 cd ai-repurpose
 
 ### 2. Install dependencies
-bash
+bash 
 pip install -r requirements.txt
 ### 3. Set environment variables
 Create a .env file:
